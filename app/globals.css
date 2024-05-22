@@ -159,6 +159,13 @@ ul {
   width: 100%;
 }
 
+.fullscreen-image img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
 .modal h2,
 .modal h1 {
   margin: 0;
